@@ -1,7 +1,7 @@
 #include <iostream>
-#include "header/runtime.h"
-#include "header/Uinput.h"
-#include "header/file.h"
+#include "runtime.h"
+#include "Uinput.h"
+#include "file.h"
 using namespace std;
 /*phayro is git clone compiler 
 email: geckosearch2018@gmail.com
